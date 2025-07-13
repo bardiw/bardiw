@@ -9,9 +9,14 @@
 
 ---
 
-### 🛠️ Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,neo4j,tensorflow,git,linux,vscode&perline=6" />
+### 🛠️ Languages and Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,linux,vscode,jupyter&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
