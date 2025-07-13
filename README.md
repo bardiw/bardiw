@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bardia Javadi</h1>
 <h3 align="center">A passionate Data Scientist & Computer Engineer</h3>
 
-- 🔭 I’m currently working on **Semantic analyzer for Trust DSL**
+- 🔭 I’m currently working on **Fraud Detection**
 - 🌱 I’m learning **Graph-based fraud detection, ML pipelines, and academic writing**
 - 📫 How to reach me: bardia.javadi.2003@gmail.com
 - 💬 Ask me about **Data Science, Neo4j, Python, ML**
