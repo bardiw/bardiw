@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bardia Javadi</h1>
-<h3 align="center">A passionate Data Scientist & Computer Engineer from Iran</h3>
+<h3 align="center">A passionate Data Scientist & Computer Engineer</h3>
 
 - 🔭 I’m currently working on **Semantic analyzer for Trust DSL**
 - 🌱 I’m learning **Graph-based fraud detection, ML pipelines, and academic writing**
@@ -21,12 +21,20 @@
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bardia-javadi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bardia-javadi&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bardia-javadi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bardia-javadi&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bardia-javadi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ---
 
