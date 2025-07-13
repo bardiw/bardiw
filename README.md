@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Semantic analyzer for Trust DSL**
 - 🌱 I’m learning **Graph-based fraud detection, ML pipelines, and academic writing**
-- 📫 How to reach me: bardia.javadi@example.com
+- 📫 How to reach me: bardia.javadi.2003@gmail.com
 - 💬 Ask me about **Data Science, Neo4j, Python, ML**
 - ⚡ Fun fact: I enjoy blending AI with cognitive science
 
