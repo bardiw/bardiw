@@ -50,7 +50,7 @@
   <a href="https://t.me/brdia_82" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:bardia.javadi.2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/bardia-javadi-35513924a/" target="_blank">
