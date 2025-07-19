@@ -11,7 +11,7 @@
 
 ### 🛠️ Languages and Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,linux,vscode,jupyter&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,r,jupyter notebook,mysql,git,linux,vscode,jupyter&perline=6" />
 </p>
 
 <p align="center">
